@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://bowensun.github.io/atom.xml" rel="self"/>
   <link href="http://bowensun.github.io/"/>
-  <updated>2013-10-17T13:42:30+02:00</updated>
+  <updated>2013-10-17T14:34:37+02:00</updated>
   <id>http://bowensun.github.io/</id>
   <author>
     <name><![CDATA[Bowen SUN]]></name>
@@ -12,5 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[这是一个测试文档]]></title>
+    <link href="http://bowensun.github.io/blog/2013/10/17/ce-shi/"/>
+    <updated>2013-10-17T14:22:00+02:00</updated>
+    <id>http://bowensun.github.io/blog/2013/10/17/ce-shi</id>
+    <content type="html"><![CDATA[<h4>Tables</h4>
+
+<p>A simple table looks like this:</p>
+
+<table>
+<thead>
+<tr>
+<th>First Header </th>
+<th> Second Header </th>
+<th> Third Header</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Content Cell </td>
+<td> Content Cell  </td>
+<td> Content Cell</td>
+</tr>
+<tr>
+<td>Content Cell </td>
+<td> Content Cell  </td>
+<td> Content Cell</td>
+</tr>
+</tbody>
+</table>
+
+]]></content>
+  </entry>
   
 </feed>
