@@ -1,12 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://bowensun.github.io/blog/2013/10/17/ce-shi/</loc>
-        <lastmod>2013-10-17T14:33:52+02:00</lastmod>
+        <loc>
+            http://bowensun.github.io/blog/2013/10/17/guan-yu-ioslei-kuo-zhan-ji-zhi-de-na-xie-shi-er/
+        </loc>
+        <lastmod>2013-10-17T16:01:56+02:00</lastmod>
     </url>
     <url>
         <loc>http://bowensun.github.io/blog/archives/</loc>
-        <lastmod>2013-10-17T14:33:52+02:00</lastmod>
+        <lastmod>2013-10-17T16:01:56+02:00</lastmod>
     </url>
     <url>
         <loc>http://bowensun.github.io/blog/categories/</loc>
@@ -14,7 +16,7 @@
     </url>
     <url>
         <loc>http://bowensun.github.io/</loc>
-        <lastmod>2013-10-17T14:33:52+02:00</lastmod>
+        <lastmod>2013-10-17T16:01:56+02:00</lastmod>
     </url>
     <url>
         <loc>http://bowensun.github.io/robots.txt</loc>
