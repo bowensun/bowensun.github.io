@@ -4,7 +4,7 @@
   <title><![CDATA[无边落木]]></title>
   <link href="http://bowensun.github.io/atom.xml" rel="self"/>
   <link href="http://bowensun.github.io/"/>
-  <updated>2013-10-25T15:13:02+02:00</updated>
+  <updated>2013-10-25T15:17:27+02:00</updated>
   <id>http://bowensun.github.io/</id>
   <author>
     <name><![CDATA[Bowen SUN]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Busted! Eight Reasons not to use ARC.]]></title>
+    <link href="http://bowensun.github.io/blog/2013/10/25/busted-eight-reasons-not-to-use-arc/"/>
+    <updated>2013-10-25T15:17:00+02:00</updated>
+    <id>http://bowensun.github.io/blog/2013/10/25/busted-eight-reasons-not-to-use-arc</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[About Cloud Computing]]></title>
