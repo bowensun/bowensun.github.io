@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: ios | My Octopress Blog]]></title>
+  <title><![CDATA[Category: iOS | 无边落木]]></title>
   <link href="http://bowensun.github.io/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://bowensun.github.io/"/>
-  <updated>2013-10-25T14:55:54+02:00</updated>
+  <updated>2013-10-25T15:05:41+02:00</updated>
   <id>http://bowensun.github.io/</id>
   <author>
     <name><![CDATA[Bowen SUN]]></name>
@@ -14,22 +14,29 @@
 
   
   <entry>
-    <title type="html"><![CDATA[关于iOS类扩展机制的那些事儿]]></title>
-    <link href="http://bowensun.github.io/blog/2013/10/17/guan-yu-ioslei-kuo-zhan-ji-zhi-de-na-xie-shi-er/"/>
-    <updated>2013-10-17T15:50:00+02:00</updated>
-    <id>http://bowensun.github.io/blog/2013/10/17/guan-yu-ioslei-kuo-zhan-ji-zhi-de-na-xie-shi-er</id>
-    <content type="html"><![CDATA[<h2>两种扩展机制</h2>
+    <title type="html"><![CDATA[About Cloud Computing]]></title>
+    <link href="http://bowensun.github.io/blog/2013/10/25/about-cloud-computing/"/>
+    <updated>2013-10-25T14:57:00+02:00</updated>
+    <id>http://bowensun.github.io/blog/2013/10/25/about-cloud-computing</id>
+    <content type="html"><![CDATA[<h1>云计算那些事儿</h1>
 
-<p><strong>category</strong>和<strong>associative</strong></p>
+<p>云计算是一种交付计算资源的新方式，而不是新技术，但是它导致组织提供信息和服务的方式发生了革命。</p>
 
-<ul>
-<li><p><strong>category</strong>用来扩展方法，使用起来简单，这里就不详细描述了。</p></li>
-<li><p><strong>associative</strong>用来扩展属性。
-</br></br></p></li>
-</ul>
+<p>通俗的讲：云计算就是把计算交给了云来执行</p>
 
+<h3>掀起热潮的原因：</h3>
 
-<h3>associative 的使用</h3>
+<p>1、由于相当于将计算部分外包出去，大大节省了成本和运营费用。只在需要的时候购买资源，而且只按时间付费。
+2、解约了人力成本，不必花时间在系统的维护上。
+3、云计算允许快速地扩大或收缩规模，既没有时间限制，也不需要承担长期义务。</p>
+
+<h3>前端和后端。</h3>
+
+<p><strong>前端</strong>：包括客户的计算机和用来访问云的应用程序。用户通过前端与系统交互。</p>
+
+<p><strong>后端</strong>：提供实现云服务的应用程序、计算机、服务器和数据存储。</p>
+
+<p>未完待续。。。</p>
 ]]></content>
   </entry>
   
